@@ -1,6 +1,6 @@
 Hyper parameters:
 
-<img src="CNN_full.png">
+<img src="../images/CNN_full.png">
 
 Applying filter W1 to a region of X:
 
