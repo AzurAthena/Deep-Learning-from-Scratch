@@ -1,10 +1,10 @@
 Hyper parameters:
 
-![](CNN/CNN.jpg "")
+![](CNN_full.jpg)
 
 Applying filter W1 to a region of X:
 
-![](./CNN_1.png)
+![](CNN_1.png)
 
 Applying filter W1 to a region of X after reshaping:
 
