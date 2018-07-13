@@ -1,4 +1,4 @@
-Hyper parameters:
+CNN Layout based on Hyper parameters:
 
 <img src="../images/CNN_full.PNG">
 
