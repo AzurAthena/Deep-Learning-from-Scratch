@@ -4,8 +4,8 @@ Hyper parameters:
 
 Applying filter W1 to a region of X:
 
-<img src="./CNN/CNN_1.PNG">
+<img src="../images/CNN_1.PNG">
 
 Applying filter W1 to a region of X after reshaping:
 
-<img src="/CNN/CNN_2.PNG">
+<img src="../images/CNN_2.PNG">
