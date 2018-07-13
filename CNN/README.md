@@ -1,6 +1,6 @@
 Hyper parameters:
 
-![CNN hyper parameters](./CNN.jpg "")
+![CNN hyper parameters](CNN/CNN.jpg "")
 
 Applying filter W1 to a region of X:
 
