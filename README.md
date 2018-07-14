@@ -1,6 +1,6 @@
-# Deep-Learning-from-Scratch
-Implenting DL modules from scratch
+Implementation of Deep learning modules from scratch.
 
-The focus is on gaining better understanding and not towards building new libraries for use.
+<br/>
 
+The focus in on gaining better insights and not on writing DL libraries for re-use.
 WIP
